@@ -1,0 +1,1 @@
+C:\Users\dell\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/dell/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S D:\大三上\计算机安全导论\实验二\2022150057-周楚皓-实验二 -B D:\大三上\计算机安全导论\实验二\2022150057-周楚皓-实验二\cmake-build-debug
